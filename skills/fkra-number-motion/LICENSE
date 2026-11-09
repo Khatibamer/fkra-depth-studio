@@ -1,0 +1,53 @@
+FKRA Source-Available License 1.0
+
+Copyright (c) 2026 Amer Khatib (FKRA AI). All rights reserved.
+
+"The Software" means everything in this repository: source code, Claude skills
+(SKILL.md files), prompts, plans, documentation, examples, designs and images.
+
+1. WHAT YOU MAY DO (free, no permission needed)
+   a. Read and study the Software.
+   b. Run the Software on your own machine to edit your OWN videos, for personal
+      or educational use, including videos you publish on your own social accounts.
+   c. Share a link to this repository.
+   d. Fork it on GitHub only as GitHub's Terms of Service allow (viewing and
+      forking inside GitHub). A fork does not grant any further rights.
+
+2. WHAT YOU MAY NOT DO without prior written permission from Amer Khatib
+   a. Sell, rent, sublicense or charge for the Software or any part of it,
+      including as part of a course, template pack, plugin, app, SaaS, API,
+      paid community or "done-for-you" editing service.
+   b. Copy, re-upload, mirror or re-publish the Software, or any substantial
+      part of it, anywhere else (other repositories, sites, marketplaces,
+      skill directories, Gumroad, Discord, Telegram, etc.).
+   c. Publish modified versions or derivative works, or present any part of
+      the Software as your own work.
+   d. Remove or change this license, the copyright notices, the NOTICE file,
+      or the "Made with FKRA Depth Studio" signature the Software writes into
+      rendered files.
+   e. Use the Software, or its text, to train or fine-tune machine-learning
+      models, or include it in datasets.
+   f. Use the names "FKRA", "FKRA AI", "FKRA Depth Studio" or "Amer Khatib" to
+      promote a product or service.
+
+3. ATTRIBUTION
+   Videos you make with the Software may be published freely. If you show,
+   teach or review the Software itself, credit: "FKRA Depth Studio by Amer Khatib"
+   with a link to this repository.
+
+4. THIRD-PARTY COMPONENTS
+   Models, fonts and libraries the Software downloads or uses keep their own
+   licenses (see NOTICE.md). This license covers only Amer Khatib's work.
+
+5. TERMINATION
+   Any breach of this license ends your rights under it immediately and
+   automatically. Amer Khatib may take legal action, including DMCA takedown
+   requests, against copies that break it.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT
+   SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+   FROM THE USE OF THE SOFTWARE.
+
+Permissions beyond this license (commercial use, teams, agencies, courses):
+open an issue titled "License request" on this repository.
