@@ -17,4 +17,7 @@ Every rendered video carries the metadata signature
 | FFmpeg | decoding / encoding | LGPL/GPL (installed separately) |
 | NumPy, Pillow, OpenCV | image processing | BSD / HPND / Apache 2.0 |
 
-These are downloaded or installed from their official sources and are not redistributed here.
+| video-shotcraft shot cards (Vincentwei1021) — the 70 motion-card skills in `skills/` (e.g. `crash-zoom-punch`, `card-flip-reveal`) | Remotion motion recipes + reference code | Apache 2.0 (a `LICENSE` copy ships inside each of those skill folders; they are **not** covered by the FKRA license) |
+
+The motion-card skills above are redistributed unmodified from https://github.com/Vincentwei1021/video-shotcraft.
+The other components are downloaded or installed from their official sources and are not redistributed here.

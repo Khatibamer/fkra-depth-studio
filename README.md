@@ -41,6 +41,12 @@ Claude يعملك مونتاج "عمق" على أي فيديو لشخص عم ي�
 | `fkra-edit-kit` | قصّ السكتات وحذف الأخطاء وتحويل التسجيل الطويل لريلز، قبل تركيب الطبقات |
 | `fkra-embedded-captions` | كابشن كاريوكي محروق كلمة بكلمة بالعربي والإنجليزي، آخر مرحلة |
 
+## 🎞️ مكتبة حركات Remotion (70 مهارة)
+
+70 مهارة موشن جاهزة (بطاقة حركة + كود Remotion مضبوط) بـ `skills/`، مثل `crash-zoom-punch` و`card-flip-reveal`
+و`glitch-cycle` و`typewriter-moves`. بتحتاج Remotion 4 + React 19. معاينة كل الحركات:
+https://vincentwei1021.github.io/video-shotcraft/ — المصدر video-shotcraft، رخصة Apache 2.0 (شوف `NOTICE.md`).
+
 ## 🚀 التشغيل
 
 ```bash
